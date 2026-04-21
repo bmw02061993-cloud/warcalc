@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 import os
 
-TOKEN = "8620454775:A4EHZJr9jqVs1JoCa3RC_dQkBrjatPXaELw"
+TOKEN = "8620454775:AAFbvtocUZPOOgtHcO6I4_FqzD4QyvKHYmg"
 
 POINTS = {1:0, 2:2, 3:4, 4:6, 5:8, 6:12, 7:16, 8:20, 9:30, 10:40, 11:80, 12:100, 13:125, 14:150}
 POWER = {1:4, 2:6, 3:8, 4:12, 5:15, 6:20, 7:25, 8:33, 9:45, 10:60, 11:80, 12:100, 13:125, 14:150}
